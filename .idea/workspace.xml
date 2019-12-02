@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46488d6f-414b-46b8-b9da-80d92c2145ed" name="Default Changelist" comment="" />
+    <list default="true" id="46488d6f-414b-46b8-b9da-80d92c2145ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EventHandlers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstpage/FirstPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstpage/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fivepage/FivePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fivepage/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourpage/FourPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourpage/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threepage/SelectFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threepage/ThreePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threepage/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twopage/ServiceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twopage/TwoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twopage/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twopage/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/EventHandlers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/firstpage/FirstPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fivepage/FivePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fourpage/FourPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/threepage/SelectFlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/threepage/ThreePage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/threepage/ThreePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/twopage/ServiceClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/twopage/TwoPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/twopage/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ControlTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Cource_work.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Sorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sorted.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +47,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
         <option value="package-info" />
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TnTYrvzmY3j2mtUT0dVfHFCukN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -42,48 +89,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortedTest">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
-      <module name="Cource_work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ControlTest">
+    <configuration name="ControlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Cource_work" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortedTest" />
+      <option name="MAIN_CLASS_NAME" value="ControlTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ControlTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Cource_work" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortedTest" />
-      <option name="METHOD_NAME" value="main" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cource_work" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortedTest" />
+      <option name="MAIN_CLASS_NAME" value="ControlTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SiteTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Cource_work" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortedTest" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="MAIN_CLASS_NAME" value="SiteTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SiteTest1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cource_work" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SiteTest1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SiteTesting.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cource_work" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SiteTesting" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SortedTest" />
-        <item itemvalue="JUnit.SortedTest.test4" />
-        <item itemvalue="JUnit.SortedTest.test1" />
-        <item itemvalue="JUnit.SortedTest.main" />
-        <item itemvalue="Application.Program" />
+        <item itemvalue="JUnit.ControlTest" />
+        <item itemvalue="JUnit.ControlTest.test1" />
+        <item itemvalue="JUnit.SiteTest1" />
+        <item itemvalue="JUnit.SiteTest1.test1" />
+        <item itemvalue="JUnit.SiteTesting.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -111,5 +160,18 @@
       <updated>1574094909653</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

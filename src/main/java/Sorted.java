@@ -4,7 +4,7 @@ class Sorted {
      * Данный коэффициент используется
      * при операции сортировки.
      */
-    private static final double coef = 1.25;
+    private static final double COEF = 1.25;
 
     /**
      * @param length длина генерируемого массива
@@ -38,7 +38,7 @@ class Sorted {
                         array[i + d] = a;
                     }
                 }
-                d = (int) (c / (coef * x));
+                d = (int) (c / (COEF * x));
             }
             return array;
         }
